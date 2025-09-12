@@ -12,8 +12,8 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/google/brotli/go/brotli"
-	"github.com/google/brotli/go/cbrotli"
+	"github.com/akazwz/brotli/go/brotli"
+	"github.com/akazwz/brotli/go/cbrotli"
 )
 
 func TestReader(t *testing.T) {
